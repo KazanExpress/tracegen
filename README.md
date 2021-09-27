@@ -1,4 +1,5 @@
-# tracegen
+# tracegen [![Actions Status](https://github.com/KazanExpress/tracegen/actions/workflows/go.yaml/badge.svg?branch=master)](https://github.com/KazanExpress/tracegen/actions) [![go report card](https://goreportcard.com/badge/github.com/KazanExpress/tracegen)](https://goreportcard.com/report/github.com/KazanExpress/tracegen) [![PkgGoDev](https://pkg.go.dev/badge/github.com/KazanExpress/tracegen)](https://pkg.go.dev/github.com/KazanExpress/tracegen)
+
 Tool for generating OpenTelemetry tracing decorators.
 
 ## Installation
