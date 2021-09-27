@@ -1,3 +1,6 @@
+# Target directory
+/target
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -12,4 +15,13 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+vendor/
+
+# OS X
+.DS_Store
+
+# JetBrains
+/.idea
+
+# VS Code
+/.vscode
