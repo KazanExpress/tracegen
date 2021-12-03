@@ -1,3 +1,9 @@
+## v0.3.0 (2021-12-03)
+
+### Feat
+
+- update dependencies
+
 ## v0.2.0 (2021-10-08)
 
 ### Feat
