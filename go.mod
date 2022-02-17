@@ -5,8 +5,8 @@ go 1.17
 require (
 	github.com/dave/jennifer v1.4.1
 	github.com/stretchr/testify v1.7.0
-	go.opentelemetry.io/otel v1.2.0
-	go.opentelemetry.io/otel/trace v1.2.0
+	go.opentelemetry.io/otel v1.4.1
+	go.opentelemetry.io/otel/trace v1.4.1
 )
 
 require (
