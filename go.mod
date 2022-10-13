@@ -3,7 +3,7 @@ module github.com/KazanExpress/tracegen
 go 1.17
 
 require (
-	github.com/dave/jennifer v1.5.0
+	github.com/dave/jennifer v1.6.0
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/otel v1.4.1
 	go.opentelemetry.io/otel/trace v1.4.1
